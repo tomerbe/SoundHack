@@ -1,0 +1,1 @@
+short	CloseSoundFile(SoundInfo *mySI);
